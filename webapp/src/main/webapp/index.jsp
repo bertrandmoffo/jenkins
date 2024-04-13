@@ -48,16 +48,16 @@
             <p>Our courses cover a wide range of subjects including:</p>
             <ul>
                 <li>Computer Science</li>
-                <li>Engineering</li>
-                <li>Business Management</li>
-                <li>Arts and Humanities</li>
+                <li>AWS Engineering</li>
+                <li>Devops engineering </li>
+                <li>Cloud Computing</li>
                 <li>Science and Technology</li>
             </ul>
             <p>Whether you're a student looking to enhance your skills or a professional seeking career advancement, Desamist Academy has something for everyone.</p>
             <p>Explore our website to learn more about our programs, faculty, and facilities.</p>
         </div>
         <div class="footer">
-            <p>Contact us: info@desamistacademy.com | Phone: +1-123-456-7890</p>
+            <p>Contact us: chamberlainaws@gmail.com | Phone: +1 438 928 4597</p>
         </div>
     </div>
 </body>
