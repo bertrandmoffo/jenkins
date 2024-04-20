@@ -41,7 +41,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Welcome to Desamist Academy</h1>
+            <h1>Welcome to Desamisttech Academy</h1>
         </div>
         <div class="content">
             <p>Desamist Academy is committed to providing high-quality education and training in various fields.</p>
